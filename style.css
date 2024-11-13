@@ -31,6 +31,10 @@ h1, h2, h3 {
  font-family: young-serif;
 }
 
+h1 {
+    color: hsl(30, 10%, 34%);
+}
+
 h2 {
     color: hsl(14, 45%, 36%);
 }
