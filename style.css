@@ -91,8 +91,7 @@ ol li::marker {
 /* Footer styling from original project and some minor stuff */
 
 footer {
-    position: fixed;
-    bottom: 0;
+    position: bottom;
 }
 
 
